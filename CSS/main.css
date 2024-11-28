@@ -1,0 +1,32 @@
+body{
+    background-color: #24353F;
+}
+
+.container{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.form-control{
+background-color: #24353F;
+}
+
+.form-control:focus{
+    background-color: #24353F;
+    box-shadow: none;
+}
+h1{
+    color: #17A2B8;
+}
+
+input::placeholder{
+ color: rgb(182, 182, 182) !important;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+
