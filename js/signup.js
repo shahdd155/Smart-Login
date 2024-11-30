@@ -61,3 +61,7 @@ function clearForm() {
     signupPassInput.value = null;
    
 }
+
+signupBtn.addEventListener('click',function(){
+    signup()
+})

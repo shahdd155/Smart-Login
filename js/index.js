@@ -110,7 +110,9 @@ function login() {
 }
 
 
-
+loginBtn.addEventListener('click',function(){
+    login()
+})
 
 
 
